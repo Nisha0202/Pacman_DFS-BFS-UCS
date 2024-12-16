@@ -17,12 +17,11 @@
 `python pacman.py -l bigMaze -p SearchAgent -a fn=ucs`
 
 ## Report
-Link(https://docs.google.com/document/d/1TUnBVHsKT1X6rvqT_OC1GmpGDHXSDstqYtXxWmIZOAQ/edit?usp=sharing)
+Link- (https://docs.google.com/document/d/1TUnBVHsKT1X6rvqT_OC1GmpGDHXSDstqYtXxWmIZOAQ/edit?usp=sharing)
 
 
 
-
-Python3 port of [Berkeley AI Pacman Search](http://ai.berkeley.edu)
+## Python3 port of [Berkeley AI Pacman Search](http://ai.berkeley.edu)
 
 Project 1: Search
 -----------------
