@@ -3,18 +3,18 @@
 
 ** Run the following commands to test each algorithm on tinyMaze:
 * `python pacman.py -l tinyMaze -p SearchAgent -a fn=dfs`
-2. `python pacman.py -l tinyMaze -p SearchAgent -a fn=bfs`
-3. `python pacman.py -l tinyMaze -p SearchAgent -a fn=ucs`
+* `python pacman.py -l tinyMaze -p SearchAgent -a fn=bfs`
+* `python pacman.py -l tinyMaze -p SearchAgent -a fn=ucs`
 
 ** Run the following commands to test each algorithm on mediumMaze:
-4. `python pacman.py -l mediumMaze -p SearchAgent -a fn=dfs`
-5. `python pacman.py -l mediumMaze -p SearchAgent -a fn=bfs`
-6. `python pacman.py -l mediumMaze -p SearchAgent -a fn=ucs`
+* `python pacman.py -l mediumMaze -p SearchAgent -a fn=dfs`
+* `python pacman.py -l mediumMaze -p SearchAgent -a fn=bfs`
+* `python pacman.py -l mediumMaze -p SearchAgent -a fn=ucs`
 
 ** Run the following commands to test each algorithm on bigMaze:
-7. `python pacman.py -l bigMaze -p SearchAgent -a fn=dfs`
-8. `python pacman.py -l bigMaze -p SearchAgent -a fn=bfs`
-9. `python pacman.py -l bigMaze -p SearchAgent -a fn=ucs`
+* `python pacman.py -l bigMaze -p SearchAgent -a fn=dfs`
+* `python pacman.py -l bigMaze -p SearchAgent -a fn=bfs`
+* `python pacman.py -l bigMaze -p SearchAgent -a fn=ucs`
 
 ## Report
 Link- (https://docs.google.com/document/d/1TUnBVHsKT1X6rvqT_OC1GmpGDHXSDstqYtXxWmIZOAQ/edit?usp=sharing)
