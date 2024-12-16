@@ -21,3 +21,6 @@ go to search with `cd search`
 
 ## Outputs would be like :
 ![cse366lab03](https://github.com/user-attachments/assets/63a69cf7-0660-4c6c-a9bc-ddbef557ebe9)
+
+## Report:
+Link(https://docs.google.com/document/d/1TUnBVHsKT1X6rvqT_OC1GmpGDHXSDstqYtXxWmIZOAQ/edit?usp=sharing)
