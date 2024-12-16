@@ -2,7 +2,7 @@
 ## Use this commands to see the different path scors and time for different search algorithm :
 
 ** Run the following commands to test each algorithm on tinyMaze:
-1. `python pacman.py -l tinyMaze -p SearchAgent -a fn=dfs`
+* `python pacman.py -l tinyMaze -p SearchAgent -a fn=dfs`
 2. `python pacman.py -l tinyMaze -p SearchAgent -a fn=bfs`
 3. `python pacman.py -l tinyMaze -p SearchAgent -a fn=ucs`
 
