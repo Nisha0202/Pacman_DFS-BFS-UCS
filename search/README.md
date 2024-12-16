@@ -1,8 +1,5 @@
-# Solution
 
-go to search `cd search`
-
-## use this commands to see the different path scors and time for different search algorithm :
+## Use this commands to see the different path scors and time for different search algorithm :
 
 ** Run the following commands to test each algorithm on tinyMaze:
 `python pacman.py -l tinyMaze -p SearchAgent -a fn=dfs`
@@ -19,8 +16,8 @@ go to search `cd search`
 `python pacman.py -l bigMaze -p SearchAgent -a fn=bfs`
 `python pacman.py -l bigMaze -p SearchAgent -a fn=ucs`
 
-
-
+## Report
+Link(https://docs.google.com/document/d/1TUnBVHsKT1X6rvqT_OC1GmpGDHXSDstqYtXxWmIZOAQ/edit?usp=sharing)
 
 
 
